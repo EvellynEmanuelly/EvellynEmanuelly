@@ -4,7 +4,7 @@
 💼 Marketing Director at Aqua Jr. | IT Apprentice at Hospital Mestre Vitalino
 📚 Always learning, growing & applying my knowledge
 📫 Connect with me: Instagram: @evellynnemanuellyy | LinkedIn: @Evellyn Emanuelly
-⚡ Fun fact: I love music, singing, dancing, watching series/movies & planning my day
+⚡ Fun fact: I love music, singing, dancing, watching series/movies & planning my day!
 
 <!---
 EvellynEmanuelly/EvellynEmanuelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
