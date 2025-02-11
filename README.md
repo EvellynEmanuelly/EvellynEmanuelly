@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @EvellynEmanuelly
-- 👀 I’m interested in study, learn and practice my knowledge
-- 🌱 I’m currently majoring in Computer Science
-- 📫 How to reach me:  instagram: @evellynnemanuellyy/ linkedin: @Evellyn Emanuelly
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I like to listen to music, sing, dance, watch series/movies, plan my day, study
+👋 Hi, I’m @EvellynEmanuelly
+🎓 Computer Science student (5th semester) at UniFavip Wyden
+💡 Passionate about AI, Datas, QA & Tech Innovation
+💼 Marketing Director at Aqua Jr. | IT Apprentice at Hospital Mestre Vitalino
+📚 Always learning, growing & applying my knowledge
+📫 Connect with me: Instagram: @evellynnemanuellyy | LinkedIn: @Evellyn Emanuelly
+⚡ Fun fact: I love music, singing, dancing, watching series/movies & planning my day
 
 <!---
 EvellynEmanuelly/EvellynEmanuelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
