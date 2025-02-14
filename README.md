@@ -1,10 +1,10 @@
-👋 Hi, I’m @EvellynEmanuelly
-🎓 Computer Science student (5th semester) at UniFavip Wyden
-💡 Passionate about AI, Datas, QA & Tech Innovation
-💼 Marketing Director at Aqua Jr. | IT Apprentice at Hospital Mestre Vitalino
-📚 Always learning, growing & applying my knowledge
-📫 Connect with me: Instagram: @evellynnemanuellyy | LinkedIn: @Evellyn Emanuelly
-⚡ Fun fact: I love music, singing, dancing, watching series/movies & planning my day!
+👋 Olá, sou @EvellynEmanuelly
+🎓 Estudante de Ciência da Computação (5º semestre) na UniFavip Wyden
+💡 Apaixonada por IA, Dados, QA e Inovação Tecnológica
+💼 Diretora de Marketing na Aqua Jr. | Estagiária de TI no Hospital Mestre Vitalino
+📚 Sempre aprendendo, crescendo e aplicando meus conhecimentos
+📫 Conecte-se comigo: Instagram: @evellynnemanuellyy | LinkedIn: @Evellyn Emanuelly
+⚡ Curiosidade: Amo música, cantar, dançar, assistir séries/filmes e planejar o meu dia!!
 
 <!---
 EvellynEmanuelly/EvellynEmanuelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
