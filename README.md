@@ -3,8 +3,7 @@ Muito prazer em ter você por aqui 👋</h2>
 
 <p align="center">
 🎓 Estudante de <strong>Ciência da Computação</strong> (5º semestre) na UniFavip Wyden<br>
-💼 Estagiária de TI no <strong>Hospital Mestre Vitalino</strong><br>
-🎯 Diretora de Marketing na <strong>Aqua Jr.</strong><br>
+💼 Assistente de TI no <strong>Hospital Mestre Vitalino</strong><br>
 💡 Apaixonada por <strong>Análise e/ou Ciências de Dados</strong>, <strong>IA</strong>, <strong>Gestão de Projetos</strong> e <strong>Inovação Tecnológica</strong><br>
 📚 Sempre aprendendo, crescendo e aplicando meus conhecimentos
 </p>
